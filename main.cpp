@@ -95,7 +95,4 @@ int main(){
         }
     }else
         cout<<"No hay Ips con ese numero de acceso."<<endl;
-
-
-
 }
